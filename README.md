@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on home.
+- 🔭 I’m currently working on IDS Comercial.
 - 🌱 I’m currently learning git and github.
 - 👯 I’m looking to collaborate on scrum.
 - 🤔 I’m looking for help with git.
